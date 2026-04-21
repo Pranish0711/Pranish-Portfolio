@@ -57,5 +57,3 @@ Built with a strong focus on **UI/UX, performance, and real-world projects**.
 - Scroll animations (Intersection Observer)
 
 ---
-
-## 📂 Project Structure
