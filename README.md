@@ -16,11 +16,8 @@
 ---
 
 ## 📸 Preview
+<img width="1680" height="1050" alt="Screenshot 2026-04-21 at 9 25 03 PM" src="https://github.com/user-attachments/assets/52470cd5-ea66-4fb3-a5f8-849d356c074a" />
 
-<!-- 🔥 REPLACE THIS COMMENT WITH YOUR SCREENSHOT -->
-<!-- Example:
-![Portfolio Preview](./assets/preview.png)
--->
 
 ---
 
